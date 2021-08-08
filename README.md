@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @username347
-- 👀 I’m interested in ... coding and revenge on my school
+- 👀 I’m interested in ... coding and other things
 - 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... simple viruses
+- 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... reach me on here
 
 <!---
